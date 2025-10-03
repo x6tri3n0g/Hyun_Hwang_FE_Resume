@@ -1,6 +1,6 @@
 Hyun Hwang  
-Frontend Engineer | UI/UX | React | TypeScript  
-+82 10-7467-9632 | hh940630@gmail.com  
+Frontend Engineer | UI/UX | JavaScript | TypeScript | React | Next.js
+hh940630@gmail.com  
 [GitHub](https://github.com/x6tri3n0g) | [LinkedIn](https://linkedin.com/in/xtring) | [Tech Blog](https://xtring-dev.tistory.com)
 
 ---
@@ -48,16 +48,14 @@ Experienced Frontend Engineer with over 6 years in developing high-traffic web a
 
 **Wonkwang University**  
 B.S. in Computer Science, Feb 2019  
-GPA: 3.75/4.5
 
 ---
 
 ## Skills
 
-- **Frontend:** JavaScript, TypeScript, React, Next.js, Redux, Zustand, React Native
-- **Web Performance:** SEO, PWA, SSR, Caching
-- **Tools:** Docker, Git, PNPM, Turborepo, Vite, Storybook
-- **Collaboration:** Agile methodologies, Code Review, Cross-functional teamwork
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Redux, Zustand, Tanstack Query, React Native
+- **Etc:** Docker, Git, PNPM, Turborepo, Vite, Storybook
+- **Collaboration:** Conflence, Jira
 
 ---
 
