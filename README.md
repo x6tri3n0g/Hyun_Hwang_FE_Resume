@@ -1,9 +1,9 @@
 Hyun Hwang  
 
-hh940630@gmail.com  
-
 Frontend Engineer | UI/UX | JavaScript | TypeScript | React | Next.js
 
+hh940630@gmail.com  
+  
 [GitHub](https://github.com/x6tri3n0g) | [LinkedIn](https://linkedin.com/in/xtring) | [Tech Blog](https://xtring-dev.tistory.com)
 
 ---
